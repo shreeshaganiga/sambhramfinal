@@ -14,7 +14,7 @@ $(".button-solid1").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">QUIZOHOLIC</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 303(3rd Floor - Canteen Building) </p><p id="time">Timing: 10:00 AM -- 11:00 AM</p><p>Student Coordinator:<br>MS. MANASA RAI (+91 8867067435)</p><p id="rules">Rules: <br>-- Three make a Team.<br>-- No gadgets and electronics allowed.<br>-- Preliminary rounds and screenings will be implemented.<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">QUIZHOLIC</p><p>[CSE & ISE]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: 303(3rd Floor - Canteen Building) </p><p id="time">Timing: 10:00 AM -- 11:00 AM</p><p>Student Coordinator:<br>MS. MANASA RAI (+91 8867067435)</p><p id="rules">Rules: <br>-- Three make a Team.<br>-- No gadgets and electronics allowed.<br>-- Preliminary rounds and screenings will be implemented.<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -407,7 +407,7 @@ $(".button-solid22").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">SAMBHRAM SOIRÉE</p><p>[SOLO SINGING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: EDUSAT Room</p><p id="time">Timing: 9:30 AM -- 11:30 AM</p><p>Student Coordinator:<br>Ms. DEEPALI (+91 8217354024)</p><p id="rules">Rules: <br>-- Singers can be accompanied by a maximum 1 instrument player.<br>-- Singers can sing with or without Karaoke.<br>-- Time limit is 3+1 min.<br>-- Judges decision will be final.<br>-- Choice of the song is open to the participants.<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">SAMBHRAM SOIRÉE</p><p>[SOLO SINGING]</p><p id="date">Date: Day 2</p><p id="fee">Entry Fee: Rs 250/-</p><p id="location">Location: EDUSAT Room</p><p id="time">Timing: 9:30 AM -- 11:30 AM</p><p>Student Coordinator:<br>Ms. DEEPALI (+91 8217354024)</p><p id="rules">Rules: <br>-- Singers can be accompanied by a maximum 1 instrument player.<br>-- Singers can sing with or without Karaoke.<br>-- Choice of the song is open to the participants.<br></p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
